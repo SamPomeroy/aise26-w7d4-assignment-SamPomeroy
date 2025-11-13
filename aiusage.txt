@@ -1,0 +1,6 @@
+AI Usage Documentation
+
+Tool Used: Claude (Anthropic)
+
+Help Received:
+Claude had to explain to me that "even" literally meant an even number.
